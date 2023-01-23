@@ -1,0 +1,3 @@
+API GATEWAY: https://7w6wr222hf.execute-api.ap-south-1.amazonaws.com/dev
+
+ARN:arn:aws:dynamodb:ap-south-1:261494589869:table/PowerOfMathDatabase
